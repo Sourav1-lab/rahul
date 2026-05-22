@@ -14,7 +14,7 @@ urllib3.disable_warnings(
 BASE_URL = "https://panthers.accbazaar.shop"
 
 HEADERS = {
-    "X-API-Key": "panthers_SedeBGQP5haNegFjjsT4tr4Px2Op3vPj1q5jgw",
+    "X-API-Key": "panthers_2ddLsqRHczTEdmQhMmhTf3aArxXQ8EaHYU0HZQ",
     "Content-Type": "application/json"
 }
 
